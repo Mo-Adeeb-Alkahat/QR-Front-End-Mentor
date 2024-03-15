@@ -21,7 +21,7 @@ img {
 
 body {
   min-height: 100vh;
-  background-color: hsl(212, 49%, 85%);
+  background-color: hsl(212, 45%, 89%);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -42,7 +42,7 @@ body {
 }
 
 .card p {
-  color: hsl(218, 45%, 89%);
+  color: hsl(220, 15%, 55%);
   margin-bottom: 1.5rem;
   padding: 0 2rem;
 }
