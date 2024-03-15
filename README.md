@@ -17,12 +17,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![img](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AdeebAlk/QR-Front-End-Mentor)
-- Live Site URL: [Add live site URL here](https://github.com/AdeebAlk/QR-Front-End-Mentor)
+- Solution URL: [solution](https://github.com/AdeebAlk/QR-Front-End-Mentor)
+- Live Site URL: [live site](https://adeebalk.github.io/QR-Front-End-Mentor/)
 
 ## My process
 
